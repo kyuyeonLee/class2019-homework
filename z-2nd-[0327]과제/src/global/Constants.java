@@ -1,17 +1,11 @@
 package global;
 
-import shape.Ellipse;
-import shape.Line;
 import shape.Rectangle;
-import shape.Select;
 import shape.Polygon;
 import shape.Shape;
 
 public class Constants {
-	public static String imageSufix = ".gif";
-	public static String library = "img/";
-	public static String selectedImage = "SLT";
-	
+
 	public enum EMainFrame {
 		x(200),
 		y(100),
@@ -27,11 +21,10 @@ public class Constants {
 	}
 
 	public enum EToolBar {
-		select("선택", new Select()),
-		rectangle("네모", new Rectangle()),
-		ellipse("동그라미", new Ellipse()),
-		line("라인", new Line()),
-		polygon("다각형", new Polygon());
+		rect("네모", new Rectangle()),
+		rect1("네모", new Rectangle()),
+		polygon("다각형", new Polygon()),
+		;
 		private String text;
 		private Shape shape;
 		private EToolBar(String text, Shape shape) {
