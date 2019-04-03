@@ -34,7 +34,7 @@ public class Main_2nd {
 //////////////////////////////////////////////////////////////////////////
 /////////////////////// ascii to integer ///////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-		Object o2 = new Object();
+		Object o = new Object();
 		if (isNumber) { // number < 2^32
 			for (int i = 0; i < index; i++) {
 				if ((long) (number * 10) + arrayNumber[i] - 48 >= Math.pow(2, 31)) {
@@ -50,7 +50,7 @@ public class Main_2nd {
 			}
 			System.out.println(number);
 		}
-		return o2;
+		return o;
 	}
 
 	public static void main(String[] args) throws IOException {
