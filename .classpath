@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="GraphicEditor1.0(alpha)/src"/>
+	<classpathentry kind="src" path="z-1st-[0304]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0306]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0311]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0318]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0320]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0325]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0327]과제/src"/>
+	<classpathentry kind="src" path="z-1st-[0401]과제/src"/>
+	<classpathentry kind="src" path="z-2nd-[0304]과제/src"/>
+	<classpathentry kind="src" path="z-2nd-[0311]과제/src"/>
+	<classpathentry kind="src" path="z-2nd-[0313]과제/src"/>
+	<classpathentry kind="src" path="z-2nd-[0318]과제/src"/>
+	<classpathentry kind="src" path="z-2nd-[0320]과제_20190321/src"/>
+	<classpathentry kind="src" path="z-2nd-[0320]과제_20190322/src"/>
+	<classpathentry kind="src" path="z-2nd-[0320]과제/src"/>
+	<classpathentry kind="src" path="z-2nd-[0327]과제/src"/>
+	<classpathentry kind="output" path="GraphicEditor1.0(alpha)/bin"/>
+</classpath>
