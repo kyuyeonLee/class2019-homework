@@ -8,7 +8,7 @@ import shape.Polygon;
 import shape.Shape;
 
 public class Constants {
-	public static String imageSufix = ".gif";
+	public static String imageSufix = ".png";
 	public static String library = "img/";            
 	public static String selectedImage = "SLT";
 	

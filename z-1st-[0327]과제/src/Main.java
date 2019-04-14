@@ -1,7 +1,4 @@
 import java.io.IOException;
-import java.util.Vector;
-
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
